@@ -1,0 +1,10 @@
+{
+  "name": "Behat tests for http://www.zygo.nl",
+  "description": "Functional testing for http://www.zygo.nl site.",
+  "require": {
+    "drupal/drupal-extension": "~3.0"
+  },
+  "config": {
+    "bin-dir": "bin/"
+  }
+}
